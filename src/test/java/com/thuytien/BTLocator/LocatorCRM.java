@@ -22,7 +22,7 @@ public class LocatorCRM {
     public static String buttonQuickCreate = "//span[starts-with(@class, 'tw-rounded-full')]";
 
     //Xpath trang New Customer
-    
+
 
 
 }
