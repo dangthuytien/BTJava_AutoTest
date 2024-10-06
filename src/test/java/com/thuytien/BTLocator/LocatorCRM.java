@@ -66,9 +66,5 @@ public class LocatorCRM {
     public static String sortMembers = "//tr[@role='row']/child::th[contains(@aria-label,'Members')]";
     public static String sortStatus = "//tr[@role='row']/child::th[contains(@aria-label,'Status')]";
 
-
     
-
-
-
 }
